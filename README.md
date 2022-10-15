@@ -1,4 +1,10 @@
 # Peminjaman-Uang
+```
+- Kelompok 10
+- Nurwahid Muslim
+- Rio Sulendra
+- Ibnu Muhtar
+``` 
 
 # Piramida Finance
 - [x] bunga 5%
