@@ -6,4 +6,4 @@
 - [x] fast and instant
 
 # Visual Program
-<img src=".images/example.jpg" />
+<img src=".image/example.jpg" />
