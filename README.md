@@ -1,6 +1,6 @@
 # Peminjaman-Uang
 ```
-- Kelompok 10
+ ----Kelompok 10----
 - Nurwahid Muslim
 - Rio Sulendra
 - Ibnu Muhtar
