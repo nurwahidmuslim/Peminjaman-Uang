@@ -46,6 +46,11 @@ int main(){
 			case 'y':
 			case 'Y':
 			cout<<"\n\nSelamat Anda Berhasil Melakukan Pinjaman Di Piramida Finance";
+			switch(pilih){
+				case 't':
+				case 'T':
+				break;
+			}
 		}
 	}
 	
