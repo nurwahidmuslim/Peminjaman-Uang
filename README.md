@@ -15,4 +15,4 @@
 <img src=".image/example.jpg" />
 
 # Flowchart Program
-<img src=".flowchart_kelompok10.jpg  />
+<img src=".image/flowchart_kelompok10.jpg  />
